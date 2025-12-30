@@ -61,7 +61,7 @@ WanderStay is a modern travel web application built with React that allows users
 ## 📂 Project Structure
 
 src/
-├── Components/
+├── components/
 │ ├── blog/
 │ ├── common/
 │ └── hotel/
