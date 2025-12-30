@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { fetchHotels } from "../features/hotels/hotelsSlice";
 import { countries } from "../data/countries";
-import HotelCard from "../components/hotel/HotelCard";
+import HotelCard from "../Components/hotel/HotelCard";
 
 const Hotels = () => {
   const dispatch = useDispatch();
